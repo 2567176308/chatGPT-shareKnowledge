@@ -1,8 +1,11 @@
-# chatGPT-shareKnowledge
-关于chatGPT
+# <em>chatGPT-shareKnowledge</em>
+<strong><em>what about chatGPT</em></strong>
 
+<em>how to watch</em>
 
-
+```git
 git clone git@github.com:2567176308/chatGPT-shareKnowledge.git
+```
 
-or download file to your pc
+<em>or download ZIP to your pc</em>
+
