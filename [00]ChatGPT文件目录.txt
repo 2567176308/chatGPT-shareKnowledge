@@ -1,0 +1,93 @@
+ChatGPT 专题研究报告合编
+
+知识星球 行业与管理资源（ https://t.zsxq.com/f2f2byn）已更新ChatGPT 主题内容共计（83份），AIGC 主题内容共计（58份）。
+相关内容持续更新，需者欢迎加入。
+
+欢迎加入行业报告资源微信群，每日分享15+份行研资料，入群联系群管微信：teamkon2。
+更多报告需求，请到”知识星球  行业与管理资源“检索下载。目前已存30万+份报告，百余份主题报告合集。加入后无限制下载。
+
+以下为本合编目录
+    AIGC行业深度报告 -ChatGPT，重新定义搜索“入口” -20230208 -华西证券 
+    AI专题报告之一：AIGC与ChatGPT正掀起新一轮的产业浪潮-从“上网”到“上算”，由“网络世界”至“虚拟现实” 
+    AI十年展望（五）：从ChatGPT到通用智能，新长征上的新变化20220203 中金 
+    A股核心产业赛道述评月刊（第13期）：AIGC与ChatGPT，为什么火了？ 
+    ChatGPT-真格基金分享  
+    ChatGPT_InstructGPT详解 
+    ChatGPT全景图 _ 产品+商业篇 
+    ChatGPT发展历程、原理、技术架构详解和产业未来 
+    ChatGPT各项能力的起源 
+    ChatGPT研究框架（2023） 20230207_国泰君安 
+    ChatGPT背后的经济账 
+    ChatGPT：又一个“人形机器人”主题 -20230121 -东吴证券 
+    Feb Time Quantum and ChatGPTd 
+    Fortune Feb ChatGPT Cryptod 
+    How to (Actually)  Use ChatGPT - A simple guide to unlocking infinite potential 
+    Morgan Stanley-Internet ChatGPT What is it Why it Matters Is it a Google Threat...and Broader Industry Implications. 
+    OpenAI_2021_WebGPT - Browser-assisted question-answering with human feedbackd 
+    The inside story of ChatGPT 
+    三分钟看懂ChatGPT 
+    中国汽车：Open AI发布AI对话模型Chat GPT，开启生成式AI商业化新机遇 
+    互联网-微软计划将ChatGPT与公司所有产品整合，视频号22年原创内容播放量增长350% 
+    互联网传媒行业周报：ChatGPT试点付费订阅，生活服务消费正在复苏 
+    互联网传媒行业周观点：ChatGPT探索变现模式，内容多元化显著提升估值溢价空间_2023-02-06_上海证券 
+    互联网传媒行业证券研究报告：ChatGPT，互联网的效率革命 20230209 -方正证券 
+    互联网电商-ChatGPT推出付费订阅版，Temu加拿大站开始内测 
+    互联网行业周报（23年第5周）：OpenAI推出ChatGPT付费订阅版，腾讯《黎明觉醒：生机》2月不删档 
+    人工智能-ChatGPT应用多点开花，商业化落地速度不断加快 
+    人工智能-ChatGPT推进商业变现，多家巨头加速布局 
+    人工智能-ChatGPT用户破百万，关注超大规模自然语言处理预训练模型 
+    人工智能-从CHAT-GPT到生成式AI（Generative AI）：人工智能新范式，重新定义生产力 
+    人形机器人行业点评报告：ChatGPT，振奋人形机器人应用端锦绣前程 
+    从ChatGPT看大模型的演化 - 20230109精简版   
+    传媒-ChatGPT持续出圈，生成式AI迎来拐点，关注微软-谷歌-百度布局 
+    传媒-行业周报：Chat-GPT推出付费服务，观影需求持续回暖 
+    传媒-行业周报：ChatGPT打开AIGC在传媒应用端的想象空间，主线继续关注平台经济、疫后复苏、游戏等 
+    传媒-行业周报：ChatGPT掀起热潮，内容大年序幕拉开 
+    传媒-行业周观察：ChatGPT月活已破亿，为增速最快的消费级应用 
+    传媒互联网周报：春节档加速电影市场回暖，关注ChatGPT相关主题 
+    传媒互联网行业周报：ChatGPT加速商业化，AIGC或带来泛娱乐和互联网的革新 
+    传媒新消费行业周报：2022年业绩预告陆续落地 关注2023年新起点微软Buzzfeed加码ChatGPT 
+    传媒：关注先发布局AIGC及拥有下游分发话语权的标的-ChatGPT付费版本落地，AIGC应用商业化在即 
+    信息技术-计算机行业周观察：注册制全面推行，ChatGPT推动AI商业模式创新-招商证券[刘玉萍,周翔宇]-20230205【7页】 
+    全球人工智能AI行业系列报告2：从Chat_GPT看生成式人工智能AIGC产业机遇与落地场景-20230119-中信证券-19页 
+    区块链-AIGC的里程碑-Chat GPT凭什么引爆科技圈, 
+    半导体行业事件点评：ChatGPT专题研究之一：探寻ChatGPT的能力圈，及“破圈”成长之路 
+    国际宏观-全球产业趋势跟踪周报：ChatGPT成AI届_顶流_，4680电池放量在即-招商证券[张夏,陈刚]-20230131【26页】 
+    国际宏观-全球产业趋势跟踪周报：ChatGPT拉开强人工智能时代帷幕，欧洲家用储能系统设备量创新高-招商证券[张夏,陈刚]-20221213【15页】 
+    国际宏观-全球产业趋势跟踪周报：政策驱动充电桩产业加速发展，国内巨头加速布局ChatGPT-招商证券[张夏,陈刚]-20230207【27页】 
+    教育行业周报：ChatGPT主题引发教育板块行情 20230129-20230204 -华西证券 
+    港股策略报告：ChatGPT概念解析和港股市场投资机会 
+    生成式AI_像ChatGPT这样的工具如何改变你的企业 Generative AI is here- How tools like ChatGPT could change your business 
+    电子-ChatGPT热潮的冷思考 
+    电子-从ChatGPT热议看大模型潜力 
+    电子-关注ChatGPT和代工龙头在美建厂 
+    百度官宣“文心一言”大模型项目，对标 ChatGPT_中金公司-20230210 
+    科技与互联网-海外TMT周报：ChatGPT或被整合进Office，台积电发布22Q4业绩 
+    策略周报：关注ChatGPT主题下计算机和传媒等科技赛道 
+    综述6大公司9类生成式AI模型 -ChatGPT is not all you need. A State of the Art Review of large Generative AI models 
+    解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 
+    计算机-ChatGPT热度不减，建议持续关注AI与数据要素领域 
+    计算机-ChatGPT算法突破，泛AI加速 
+    计算机-从AIGC到ChatGPT：原理、前景和机会 
+    计算机-行业周报：ChatGPT应用展望 
+    计算机-行业周报：ChatGPT是否是AI的革命, 
+    计算机-行业周报：ChatGPT爆火，AI产业景气度回升-长城计算机产业跟踪（第六期） 
+    计算机周报：注册制全面推行，ChatGPT推动AI新场景落地 
+    计算机行业“智能网联”系列报告23-  ChatGPT 引领创成式 AI 新变革 20230206 -中信证券 
+    计算机行业专题报告：ChatGPT：开启AI新纪元 
+    计算机行业双周报2023年第3期总第43期：全面注册制催化金融IT行情 ChatGPT进一步打开AIGC商业化想象 
+    计算机行业周报：Chat GPT开启AI新纪元，通用大模型潜力释放 
+    计算机行业周报：ChatGPT发布有望引发人工智能新浪潮 
+    计算机行业周报：ChatGPT：AI时代资本定价标杆性事件 
+    计算机行业周报：数字人民币增长可期，ChatGPT商业化变现落地 20230205 -华鑫证券 
+    计算机行业周报：计算机视角解读ChatGPT投资机会 
+    计算机行业深度报告：ChatGPT引领AI新浪潮，AIGC商业化启程 
+    计算机行业深度报告：大厂加大类ChatGPT布局力度，商业应用有望加速落地 
+    计算机行业点评报告：聊天机器人顶流ChatGPT，开启自然语言处理领域新篇章 
+    计算机行业：AI催化剂密集释放，ChapGPT注入新活力 
+    计算机：ChatGPT：开启AI新纪元 20230201 -华西证券 
+    计算机：海外ChatGPT专题-ChatGPT风口已至，商业化落地加速 
+    谷歌搜索：被ChatGPT颠覆的可能性 
+    通信行业周报：ChatGPT热度加速AI算力投资，光通信产业链或将持续受益 
+    通信行业研究周报：百度计划进军ChatGPT，AIGC板块持续升温 
+
